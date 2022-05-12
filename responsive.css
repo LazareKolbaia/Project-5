@@ -1,0 +1,135 @@
+@media only screen and (max-width: 1320px) {
+    .containerCenter--w_child{
+        margin-left: -120px;
+    }
+}
+
+@media only screen and (max-width: 1271px) {
+    .containerCenter--w_child{
+        margin-left: -150px;
+    }
+}
+
+@media only screen and (max-width: 1265px) {
+    .containerCenter--w_child{
+        margin-left: -180px;
+    }
+}
+
+@media only screen and (max-width: 1135px) {
+    .containerCenter--w_child{
+        margin-left: -250px;
+    }
+}
+
+@media only screen and (max-width: 865px) {
+    .container{
+        width: 400px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .container{
+       display:block;
+       margin-top: 195px;
+       margin-left: 90px;
+    }
+
+    .dog-img{
+        display: none;
+    }
+    .containerCenter--w_child{
+        margin-left: -700px;
+    }
+}
+
+@media only screen and (max-width: 591px) {
+   .container{
+       margin-left:20px;
+   }
+}
+
+@media only screen and (max-width: 541px) {
+    .container{
+        margin-left:30px;
+    }
+ }
+
+ @media only screen and (max-width: 466px) {
+    .container{
+        margin-left:-40px;
+    }
+ }
+
+ @media only screen and (max-width: 375px) {
+    .container{
+        margin-left:-85px;
+    }
+.aboutUs{
+    display: none;
+}
+ }
+
+ 
+ @media only screen and (max-width: 360px) {
+    .container{
+        margin-left: -135px;
+    }
+ }
+
+ @media only screen and (max-height: 1323px) {
+     .center{
+         margin-top: -20px;
+     }
+     .containerWww{
+         margin-left: -65px;
+     }
+
+     .containerbtnByMe{
+         margin-left: 90px;
+     }
+
+     .container{
+         margin-left: -100px;
+     }
+ }
+
+ @media only screen and (max-width: 974px) {
+
+    .aboutUs{
+        display: none;
+    }
+
+}
+
+@media only screen and (max-width:850px) {
+
+.container{
+    margin-left: 110px;
+}
+}
+
+@media only screen and (max-width:500px) {
+
+    .container{
+        margin-left: -20px;
+    }
+}
+
+@media only screen and (max-width:376px) {
+
+    .container{
+        margin-left: -90px;
+    }
+
+    .center{
+        margin-left: 450px;
+        margin-top: -25px;
+    }
+}
+
+@media only screen and (max-width:414px) {
+    .container{
+        margin-left: -60px;
+    }
+}

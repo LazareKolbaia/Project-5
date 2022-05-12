@@ -1,0 +1,109 @@
+/* colors */
+body {
+  margin: 0;
+  background-color: #EB5040;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+center {
+  margin-left: 500px;
+  margin-top: 100px;
+}
+
+center h3 p {
+  color: #ccc;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+center .lorem {
+  color: #f4f4f4;
+  margin-top: -11px;
+  margin-left: 16pc;
+  font-size: large;
+  font-weight: 500;
+}
+
+h1 {
+  color: white;
+  font-size: 55px;
+  font-weight: 200;
+  margin-left: 325px;
+  margin-top: -25px;
+}
+
+.paraGraph {
+  color: #ccc;
+  font-weight: 500;
+  font-size: large;
+  margin-left: 65px;
+}
+
+.paraGraph span {
+  color: #f4f4f4;
+}
+
+#btn {
+  width: 220px;
+  border: none;
+  background-color: white;
+  color: black;
+  font-size: large;
+  height: 50px;
+  margin-left: 120px;
+  margin-top: -50px;
+}
+
+#btn .blackP {
+  margin-top: 15px;
+  font-weight: 500;
+  font-size: large;
+  text-align: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.container {
+  float: left;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+  padding: 0;
+  margin-left: -120px;
+  margin-top: -50px;
+  width: 100%;
+}
+
+.container p {
+  margin-left: 150px;
+  color: #ccc;
+  font-weight: 200;
+  font-size: large;
+  font-size: 23px;
+}
+
+.container .loremParagraph {
+  color: #f4f4f4;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.container .card_child-h3 {
+  margin-left: 100px;
+}
+
+.imgCOn {
+  width: -webkit-min-content;
+  width: -moz-min-content;
+  width: min-content;
+  height: -webkit-min-content;
+  height: -moz-min-content;
+  height: min-content;
+  margin-top: -300px;
+}
+/*# sourceMappingURL=style.css.map */
